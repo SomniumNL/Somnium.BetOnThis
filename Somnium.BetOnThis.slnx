@@ -1,9 +1,13 @@
 <Solution>
-  <Folder Name="/0. Documentation/" />
+  <Folder Name="/0. Documentation/">
+    <File Path="Documentation/ReadMe.md" />
+  </Folder>
   <Folder Name="/1. Source/">
+    <File Path="Source/ReadMe.md" />
     <Project Path="Source/Somnium.BetOnThis/Somnium.BetOnThis.csproj" />
   </Folder>
   <Folder Name="/2. Tests/">
+    <File Path="Tests/ReadMe.md" />
     <Project Path="Tests/Somnium.BetOnThis.Test/Somnium.BetOnThis.Test.csproj" Id="77051319-dcca-4a14-a2e0-bbb14b72047b" />
   </Folder>
   <Folder Name="/3. ConsoleArea/">
