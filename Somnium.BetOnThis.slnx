@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/0. Documentation/" />
+  <Folder Name="/1. Source/">
+    <Project Path="Source/Somnium.BetOnThis/Somnium.BetOnThis.csproj" />
+  </Folder>
+  <Folder Name="/2. Tests/">
+    <Project Path="Tests/Somnium.BetOnThis.Test/Somnium.BetOnThis.Test.csproj" Id="77051319-dcca-4a14-a2e0-bbb14b72047b" />
+  </Folder>
+  <Folder Name="/3. ConsoleArea/">
+    <Project Path="ConsoleArea/Somnium.BetOnThis.ConsoleUI/Somnium.BetOnThis.ConsoleUI.csproj" Id="941499e9-ab6b-4ac4-9bd2-cd980a36ed08" />
+  </Folder>
+</Solution>
